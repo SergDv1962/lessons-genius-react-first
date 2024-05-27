@@ -1,0 +1,41 @@
+.container{
+   max-width: 200px;
+   padding: 20px;
+   background-color:aqua;
+   color: blue;
+}
+.box-add{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 10px;
+}
+.button-add{
+   background-color: yellow;
+   border-color: yellow;
+   padding: 5px;
+   margin-bottom: 10px;
+}
+.list{
+   display: flex;
+   flex-direction: column;
+   padding: 0;
+   margin: 0;
+}
+.item-box{
+   border: 1px solid blue;
+   overflow: auto;
+   margin-top: 10px;
+}
+.item{
+   display: flex;
+   align-items: start;
+   gap:10px;
+   text-align: left;
+   list-style: none;
+   font-weight: 600;
+}
+.lineThough{
+   text-decoration: line-through;
+   color:grey
+}

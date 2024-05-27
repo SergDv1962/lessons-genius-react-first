@@ -1,0 +1,10 @@
+.block-add{
+   background-color: rgb(105, 105, 185);
+   padding: 10px;
+}
+.box-entered{
+   margin-top: 8px;
+   background-color: #645e74;
+   padding: 0 4px;
+   border: 1px solid yellow;
+}

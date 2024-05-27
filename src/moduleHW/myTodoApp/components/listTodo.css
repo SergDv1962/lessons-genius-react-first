@@ -1,0 +1,20 @@
+.list-block{
+   background-color: gray;
+   border: 1px solid black;
+   padding: 8px;
+   max-height: 300px;
+   overflow-y: auto;
+   margin-bottom: 12px;
+}
+.box-item{
+   background-color: rgb(39, 85, 70);
+   margin-bottom: 8px;
+   display: flex;
+   flex-direction: column;
+   align-items: start;
+}
+
+span{
+   color: rgb(10, 10, 78);
+   padding-right: 8px;
+}

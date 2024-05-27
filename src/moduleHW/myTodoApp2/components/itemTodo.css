@@ -1,0 +1,16 @@
+.boxItemTodo{
+   background-color: rgb(75, 63, 23);
+   border: 1px dotted goldenrod;
+   display: flex;
+   flex-direction: column;
+   align-items: start;
+}
+span{
+   text-decoration: underline;
+   font-size: small;
+   margin-right: 8px;
+   color: rgb(145, 241, 132);
+}
+span:first-child{
+   margin-left: 20px;
+}

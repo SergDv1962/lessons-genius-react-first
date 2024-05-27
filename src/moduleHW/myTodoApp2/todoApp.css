@@ -1,0 +1,27 @@
+.container{
+   background-color: rgb(48, 48, 48);
+   border: 1px solid white;
+   padding: 4px;
+   max-width: 400px;
+   max-height: 600px;
+   overflow: auto;
+}
+.title {
+   color: yellowgreen;
+}
+.general-text{
+   color: yellow;
+}
+.mainBox{
+   border: 1px solid rgb(205, 156, 50);
+   padding: 4px;
+   background-color: grey;
+}
+.addBtn{
+   padding: 4px 8px;
+   border-radius: 12px;
+   background-color: rgb(48, 48, 48);
+   color: yellowgreen;
+   margin-top: 8px;
+   margin-bottom: 8px;
+}

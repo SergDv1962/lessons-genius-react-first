@@ -1,0 +1,15 @@
+.main-block{
+   background-color: rgb(82, 72, 92);
+   border: 2px solid wheat;
+   padding: 8px;
+}
+.title{
+   color: yellow;
+}
+.box-tasks{
+   border: 1px solid blue;
+   padding: 4px;
+}
+.box-adding{
+   border: 1px dotted yellow
+}

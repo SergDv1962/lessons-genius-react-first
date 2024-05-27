@@ -1,0 +1,10 @@
+.modalWindow-box{
+   padding: 4px;
+   border: 1px dotted red
+}
+.modalWindow-item{
+   display: flex;
+   justify-content: space-between;
+   margin-bottom: 8px;
+
+}

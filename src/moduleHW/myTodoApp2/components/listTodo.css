@@ -1,0 +1,13 @@
+.boxListTasks{
+   border: 1px dotted yellow;
+   padding: 4px;
+   max-height: 300px;
+   overflow-y: auto;
+   background-color: rgb(139, 227, 233);
+}
+.boxItemTasks{
+   border: 1px dotted rgb(255, 51, 0);
+   padding: 4px;
+   margin-bottom: 4px;
+   background-color: rgb(100, 76, 76);
+}

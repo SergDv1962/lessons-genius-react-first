@@ -1,0 +1,25 @@
+.container {
+   width: 400px;
+   height: 200px;
+   background-color: grey;
+   transition: all 3s ease 0.2s; 
+   &.containerBlue {
+   background-color: blue;
+}
+}
+.button {
+   border-radius: 10px;
+   padding: 5px;
+}
+.yellowColor {
+   color: rgb(221, 217, 5);
+   background-color: blue;
+}
+.redColor {
+   color: red;
+   background-color: greenyellow;
+   
+}
+.title {
+   color: yellowgreen
+}

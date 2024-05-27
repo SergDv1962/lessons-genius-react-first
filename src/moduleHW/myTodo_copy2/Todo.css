@@ -1,0 +1,41 @@
+.container{
+   max-width: 400px;
+   background-color: #222222;
+   border: 1px solid white;
+   padding: 12px;
+}
+.add-box{
+   margin-bottom: 12px;
+   padding: 8px;
+   background-color: grey;
+}
+.list{
+   background-color: grey;
+   padding: 20px;
+   list-style: none;
+}
+.item{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   gap: 28px;
+   margin-bottom: 16px;
+   background-color: #31aaaa6e;
+}
+.item-todo{
+   display: flex;
+   align-items: center;
+   gap: 8px;
+   
+}
+.item-todo.done{
+   color: red;
+   text-decoration:line-through
+}
+
+.button{
+   background-color:rgb(153, 43, 226);
+   border-radius: 10px;
+   padding: 5px 10px;
+   color: white;
+}

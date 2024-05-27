@@ -1,0 +1,57 @@
+.container{
+   max-width: 400px;
+   background-color: #222222;
+   border: 1px solid white;
+   padding: 12px;
+}
+.add-box{
+   margin-bottom: 12px;
+   padding: 8px;
+   background-color: grey;
+}
+.list{
+   background-color: grey;
+   padding: 12px 16px;
+   list-style: none;
+}
+.search-box{
+   margin-bottom: 12px;
+}
+.search-lable{
+   font-size: 14px;
+   margin-right: 8px;
+}
+.item{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   gap: 28px;
+   margin-bottom: 16px;
+   background-color: #31aaaa6e;
+}
+.item-todo{
+   display: flex;
+   align-items: center;
+   gap: 8px;
+   
+}
+.item-todo.done{
+   color: rgb(41, 56, 41);
+   text-decoration:line-through
+}
+.btn-localStorage {
+   padding: 5px 12px;
+   border-radius: 8px;
+   background-color: aqua;
+   margin-bottom: 8px;
+}
+
+.button{
+   background-color:rgb(153, 43, 226);
+   border-radius: 10px;
+   padding: 5px 10px;
+   color: white;
+}
+.error{
+   color: red;
+}

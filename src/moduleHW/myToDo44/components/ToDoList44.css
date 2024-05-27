@@ -1,0 +1,9 @@
+.block-listTodo{
+   background-color: rgb(56, 56, 56);
+   padding: 10px;
+}
+.box-itemTask{
+   border: 1px dotted yellow;
+   padding: 8px;
+   margin-bottom: 4px;
+}

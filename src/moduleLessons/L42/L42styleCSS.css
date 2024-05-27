@@ -1,0 +1,17 @@
+.container {
+   width: 400px;
+   height: 200px;
+   background-color: grey;
+}
+.container.containerRed {
+   background-color: rgb(255, 0, 0);
+}
+.container.containerBlue {
+   background-color: blue;
+}
+
+
+.title {
+   color: pink;
+   
+}
